@@ -1,0 +1,14 @@
+D:\CSharp\CS_Inherit_StudentManager\bin\Debug\net8.0\CS_Inherit_StudentManager.exe
+D:\CSharp\CS_Inherit_StudentManager\bin\Debug\net8.0\CS_Inherit_StudentManager.deps.json
+D:\CSharp\CS_Inherit_StudentManager\bin\Debug\net8.0\CS_Inherit_StudentManager.runtimeconfig.json
+D:\CSharp\CS_Inherit_StudentManager\bin\Debug\net8.0\CS_Inherit_StudentManager.dll
+D:\CSharp\CS_Inherit_StudentManager\bin\Debug\net8.0\CS_Inherit_StudentManager.pdb
+D:\CSharp\CS_Inherit_StudentManager\obj\Debug\net8.0\CS_Inherit_StudentManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\CS_Inherit_StudentManager\obj\Debug\net8.0\CS_Inherit_StudentManager.AssemblyInfoInputs.cache
+D:\CSharp\CS_Inherit_StudentManager\obj\Debug\net8.0\CS_Inherit_StudentManager.AssemblyInfo.cs
+D:\CSharp\CS_Inherit_StudentManager\obj\Debug\net8.0\CS_Inherit_StudentManager.csproj.CoreCompileInputs.cache
+D:\CSharp\CS_Inherit_StudentManager\obj\Debug\net8.0\CS_Inherit_StudentManager.dll
+D:\CSharp\CS_Inherit_StudentManager\obj\Debug\net8.0\refint\CS_Inherit_StudentManager.dll
+D:\CSharp\CS_Inherit_StudentManager\obj\Debug\net8.0\CS_Inherit_StudentManager.pdb
+D:\CSharp\CS_Inherit_StudentManager\obj\Debug\net8.0\CS_Inherit_StudentManager.genruntimeconfig.cache
+D:\CSharp\CS_Inherit_StudentManager\obj\Debug\net8.0\ref\CS_Inherit_StudentManager.dll
